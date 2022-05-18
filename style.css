@@ -22,6 +22,32 @@ h1 {
 }
 
 
+.row {
+  margin: 50px;
+}
+
+ul {
+list-style: none;
+}
+
+i {
+  font-size: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 576px) {
 
 #middlelink {
