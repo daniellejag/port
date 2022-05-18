@@ -20,3 +20,20 @@ h1 {
     text-align: center;
     width: 100%;
 }
+
+
+@media (max-width: 576px) {
+
+#middlelink {
+  display:none;
+}
+
+
+}
+  
+
+@media (min-width: 576px) {
+  #smallmiddlelink {
+    display: none;
+  }
+}
