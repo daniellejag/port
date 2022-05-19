@@ -12,13 +12,17 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #eee;
+    background-color: rgb(29, 29, 29);
 }
 
 h1 {
     margin: 0;
     text-align: center;
     width: 100%;
+    font-family: FontSiteSansBoldCondensed, Verdana, Helvetica, Arial, sans-serif;
+    font-style: FontSiteSansBoldCondensed - 400;
+    color: #ccc;
+    font-size: 60px;
 }
 
 
@@ -63,3 +67,11 @@ i {
     display: none;
   }
 }
+
+
+
+
+
+
+
+
