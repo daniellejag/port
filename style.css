@@ -26,9 +26,7 @@ h1 {
 }
 
 
-.row {
-  margin: 50px;
-}
+
 
 ul {
 list-style: none;
@@ -36,8 +34,14 @@ list-style: none;
 
 i {
   font-size: 70px;
+  color: yellowgreen;
 }
 
+
+
+body {
+background-color: rgb(29, 29, 29);
+}
 
 
 
